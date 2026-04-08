@@ -1,4 +1,5 @@
 🤖 **ChatBot**
+
 This project is a simple chatbot built using the OpenAI API 🔑. It sends user queries to the API and returns intelligent, real-time responses 💬.
 
 The main goal of this project is to help beginners understand how APIs work 🌐, especially how to integrate and interact with the OpenAI API in a practical way.
